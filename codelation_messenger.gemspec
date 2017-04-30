@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "Sends a message to the messenger worker"
   spec.description   = "Used to send messages to a micro service and either wait for a response or do an async request"
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/codelation/ruby-messenger.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
